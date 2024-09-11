@@ -1,10 +1,7 @@
 ---
+layout: page
 title: "Jokes"
-menu: nav/github_pages.html
-permalink: /github/pages/jokes
 ---
-
-# Jokes
 
 Here are some fun programming jokes:
 
