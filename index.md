@@ -47,13 +47,12 @@ h1 {
 }
 </style>
 
-
 <div class="navigation-container">
   <table class="navigation-table">
     <tr>
-      <td><a class="nav-link" href="{{ site.baseurl }}/github/pages/intro">Introduction</a></td>
-      <td><a class="nav-link" href="{{ site.baseurl }}/github/pages/jokes">Jokes</a></td>
-      <td><a class="nav-link" href="{{ site.baseurl }}/github/pages/tracking">Tracking</a></td>
+      <td><a class="nav-link" href="{{ site.baseurl }}/intro">Introduction</a></td>
+      <td><a class="nav-link" href="{{ site.baseurl }}/jokes">Jokes</a></td>
+      <td><a class="nav-link" href="{{ site.baseurl }}/tracking">Tracking</a></td>
     </tr>
   </table>
 </div>
